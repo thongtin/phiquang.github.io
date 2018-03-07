@@ -1,0 +1,47 @@
+﻿#CHXH{
+text-align:center;
+font-size:30px;
+style="font-style:oblique;"
+}
+h1{
+text-align:center;
+color: blue;
+}
+#trangtri{
+text-align:center;
+font-size:25px;
+}
+a#link:link{padding: 14px 25px;
+background-color: red;
+color: black;
+text-decoration: none;
+display: inline-block;
+}
+a#link:visited{padding: 14px 25px;
+color:black;
+text-decoration: none;
+display: inline-block;
+}
+a#link:hover{padding: 14px 25px;
+color: blue;
+text-decoration: none;
+display: inline-block;
+}
+a#link:active{padding: 14px 25px;
+text-decoration: none;
+color:red;
+display: inline-block;
+}
+#K,#k1,#k2,#k3{
+text-indent:30px;
+}
+#p1,#p2,#p3,#p4{
+text-indent:30px;
+}
+#p5,#p6,#p7,#p8{
+text-align:right;
+}
+img{
+border:5px solid orange;
+border-radius:50%;
+}
